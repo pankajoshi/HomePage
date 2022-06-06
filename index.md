@@ -1,5 +1,3 @@
-## Sample Map Website
+## Measure C - Draft Regional Projects
 
-Here's my sample map website!!
-
-<iframe src="Interactive_measureC_projects_Tier_v2.html" height="1000" width="1000"></iframe>
+<iframe src="Interactive_measureC_projects_Tier_v2.html" height="800" width="800"></iframe>
